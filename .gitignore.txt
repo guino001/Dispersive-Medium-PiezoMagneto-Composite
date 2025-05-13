@@ -1,0 +1,24 @@
+# === MATLAB ===
+*.asv
+*.m~
+*.mlx~
+*.mat
+*.fig
+*.log
+*.bak
+.DS_Store
+*.autosave
+
+# === COMSOL ===
+*.mphautosave
+*.mphbackup
+*.mphbin
+*.log
+*.class
+
+# === Common OS/system files ===
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Icon?
+._*
